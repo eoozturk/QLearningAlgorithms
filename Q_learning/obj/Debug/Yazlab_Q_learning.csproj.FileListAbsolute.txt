@@ -1,0 +1,10 @@
+c:\users\ibokan\documents\visual studio 2012\Projects\Yazlab_Q_learning\Yazlab_Q_learning\bin\Debug\Yazlab_Q_learning.exe.config
+c:\users\ibokan\documents\visual studio 2012\Projects\Yazlab_Q_learning\Yazlab_Q_learning\bin\Debug\Yazlab_Q_learning.exe
+c:\users\ibokan\documents\visual studio 2012\Projects\Yazlab_Q_learning\Yazlab_Q_learning\bin\Debug\Yazlab_Q_learning.pdb
+c:\users\ibokan\documents\visual studio 2012\Projects\Yazlab_Q_learning\Yazlab_Q_learning\obj\Debug\Yazlab_Q_learning.csprojResolveAssemblyReference.cache
+c:\users\ibokan\documents\visual studio 2012\Projects\Yazlab_Q_learning\Yazlab_Q_learning\obj\Debug\Yazlab_Q_learning.Form1.resources
+c:\users\ibokan\documents\visual studio 2012\Projects\Yazlab_Q_learning\Yazlab_Q_learning\obj\Debug\Yazlab_Q_learning.Properties.Resources.resources
+c:\users\ibokan\documents\visual studio 2012\Projects\Yazlab_Q_learning\Yazlab_Q_learning\obj\Debug\Yazlab_Q_learning.csproj.GenerateResource.Cache
+c:\users\ibokan\documents\visual studio 2012\Projects\Yazlab_Q_learning\Yazlab_Q_learning\obj\Debug\Yazlab_Q_learning.exe
+c:\users\ibokan\documents\visual studio 2012\Projects\Yazlab_Q_learning\Yazlab_Q_learning\obj\Debug\Yazlab_Q_learning.pdb
+C:\Users\ibokan\Documents\Visual Studio 2012\Projects\Yazlab_Q_learning\Yazlab_Q_learning\obj\Debug\Yazlab_Q_learning.Form2.resources
